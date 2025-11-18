@@ -1,4 +1,4 @@
-# 👋 Hello Wordl, I'm Dhushyanth!
+# 👋 Hello World, I'm Dhushyanth!
 
 ###  AI & ML Enthusiast | Web Developer | Python Lover
 
