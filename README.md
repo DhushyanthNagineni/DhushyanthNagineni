@@ -16,8 +16,9 @@ I'm passionate about building cool projects, exploring machine learning, and cre
 ###  Projects
 - 🧠 AI-powered chatbot  
 - 🤟 Sign Language Detection  
-- 🛒 Handicrafts E-commerce Website  
+- 🛒 Handicrafts E-commerce Website with integrated bidding system  
 - 📊 Drug Monitoring Flask App
+- Infection Transmisson Prediction System 
 
   ### 🏅 Certifications & Badges
   Data analysis Badge:
